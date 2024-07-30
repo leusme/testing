@@ -17,7 +17,7 @@ Projeto para a cadeira de Banco de Dados e Engenharia de Software
 
  Celeste Azul Gomes de Gouveia Pereira - caggp@cin.ufpe.br
 
-@@ -21,45 +28,32 @@ Projeto para a cadeira de Banco de Dados e Engenharia de Software
+## Projeto para a cadeira de Banco de Dados e Engenharia de Software
 Um sistema de gerenciamento de salgados para auxiliar as vendas feitas pela equipe de Marcelinho Salgados.
 Diante do processo de venda desses salgados, surgiu a necessidade da criação de um sistema de reservas, para que os alunos possam indicar o interesse na compra de salgados específicos, sistema esse que auxiliaria também no controle de vendas, cadastro de clientes e funcionários, obtenção e análise de dados.
 
@@ -28,24 +28,24 @@ O foco principal do projeto são as reservas e as vendas que ocorrem no empreend
 Os requisitos da modelagem foram atendidos da seguinte forma:
 
 - Atributos:
-  -Composto, multivalorado
-   -Horario, Sabor
+  - Composto, multivalorado
+   - Horario, Sabor
 
 - Relacionamentos:
 
- -Relacionamento 1:1, 1:N, N:M
-   -Cliente-CartãoFidelidade, Funcionário-Venda, Reserva-Salgados
+ - Relacionamento 1:1, 1:N, N:M
+   - Cliente-CartãoFidelidade, Funcionário-Venda, Reserva-Salgados
 
- -Relacionamento parcial-total, parcial-parcial
-  -Funcionario-Pedido,Cliente-Salgado
+ - Relacionamento parcial-total, parcial-parcial
+  - Funcionario-Pedido,Cliente-Salgado
 
- -Relacionamento Unário ou Auto Relacionamento, N-ário
-  -Funcionário-Funcionário, Cliente-Reserva-Salgado
+ - Relacionamento Unário ou Auto Relacionamento, N-ário
+  - Funcionário-Funcionário, Cliente-Reserva-Salgado
 
- -Relacionamento Identificador ou Entidade Fraca
-  -Cliente-CartãoFidelidade
+ - Relacionamento Identificador ou Entidade Fraca
+  - Cliente-CartãoFidelidade
 
- -Outros:
+ - Outros:
 
- -Herança (qualquer tipo)
-  -Pedido-Venda-Reserva , Funcionario-Gerente-Vendedor
+ - Herança (qualquer tipo)
+  - Pedido-Venda-Reserva , Funcionario-Gerente-Vendedor
