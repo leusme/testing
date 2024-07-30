@@ -9,7 +9,6 @@
   </h1> 
 </div> 
 
-## Projeto para as disciplinas de Banco de Dados e Engenharia de Software
 
 ## 🎯 Objetivo: 
 
