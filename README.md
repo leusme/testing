@@ -1,7 +1,4 @@
 
-# Projeto Comedoria
-Projeto para as disciplinas de Banco de Dados e Engenharia de Software
-
 <div align="center">
   <img src="https://portal.cin.ufpe.br/wp-content/uploads/2020/07/Horizontal-Vermelho-Logotipo-CIn-UFPE.png" alt="logo_cin" width="400" height="auto" style="border-radius:20px;" />
   <h2>
@@ -11,6 +8,13 @@ Projeto para as disciplinas de Banco de Dados e Engenharia de Software
     Projeto — Comedoria 2024.1
   </h1> 
 </div> 
+
+## Projeto para as disciplinas de Banco de Dados e Engenharia de Software
+### Objetivo: 
+Um sistema de gerenciamento de salgados para auxiliar as vendas feitas pela equipe de Marcelinho Salgados.
+
+### Introdução
+Diante do processo de venda desses salgados, surgiu a necessidade da criação de um sistema de reservas, para que os alunos possam indicar o interesse na compra de salgados específicos, sistema esse que auxiliaria também no controle de vendas, cadastro de clientes e funcionários, obtenção e análise de dados.
 
 ## 🧠 Equipe: 
 
@@ -28,9 +32,6 @@ Projeto para as disciplinas de Banco de Dados e Engenharia de Software
 
  Leonardo Bezerra de Oliveira - lbo@cin.ufpe.br
 
-## Projeto para as disciplinas de Banco de Dados e Engenharia de Software
-Um sistema de gerenciamento de salgados para auxiliar as vendas feitas pela equipe de Marcelinho Salgados.
-Diante do processo de venda desses salgados, surgiu a necessidade da criação de um sistema de reservas, para que os alunos possam indicar o interesse na compra de salgados específicos, sistema esse que auxiliaria também no controle de vendas, cadastro de clientes e funcionários, obtenção e análise de dados.
 
 ## 📝 Requisitos da modelagem
 Como explicado anteriormente, a modelagem do banco foi construída a partir do contexto do Empreendimento Marcelinho Salgados;
