@@ -40,11 +40,11 @@ Os requisitos da modelagem foram atendidos da seguinte forma:
 
     - Funcionario-Pedido,Cliente-Salgado
 
-    - Relacionamento Unário ou Auto Relacionamento, N-ário
+  - Relacionamento Unário ou Auto Relacionamento, N-ário
 
     - Funcionário-Funcionário, Cliente-Reserva-Salgado
 
-    - Relacionamento Identificador ou Entidade Fraca
+  - Relacionamento Identificador ou Entidade Fraca
      
     - Cliente-CartãoFidelidade
 
