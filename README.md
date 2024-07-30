@@ -10,11 +10,12 @@
 </div> 
 
 ## Projeto para as disciplinas de Banco de Dados e Engenharia de Software
-### 🎯 Objetivo: 
+
+## 🎯 Objetivo: 
 
 Um sistema de gerenciamento de salgados para auxiliar as vendas feitas pela equipe de Marcelinho Salgados.
 
-### Introdução
+## Introdução
 
 Diante do processo de venda desses salgados, surgiu a necessidade da criação de um sistema de reservas, para que os alunos possam indicar o interesse na compra de salgados específicos, sistema esse que auxiliaria também no controle de vendas, cadastro de clientes e funcionários, obtenção e análise de dados.
 
