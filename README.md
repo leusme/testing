@@ -46,6 +46,7 @@ Os requisitos da modelagem foram atendidos da seguinte forma:
 
 - Atributos:
   - Composto, multivalorado
+  
     - Horario, Sabor
 
 - Relacionamentos:
