@@ -29,7 +29,7 @@ Os requisitos da modelagem foram atendidos da seguinte forma:
 
 - Atributos:
   - Composto, multivalorado
-   - Horario, Sabor
+    - Horario, Sabor
 
 - Relacionamentos:
 
@@ -52,4 +52,4 @@ Os requisitos da modelagem foram atendidos da seguinte forma:
 
     - Herança (qualquer tipo)
 
-    - Pedido-Venda-Reserva , Funcionario-Gerente-Vendedor
+      - Pedido-Venda-Reserva , Funcionario-Gerente-Vendedor
