@@ -1,8 +1,7 @@
 
 # Projeto Comedoria
-Projeto para a cadeira de Banco de Dados e Engenharia de Software
-Projeto para a cadeira de Banco de Dados e Engenharia de Software 
-## Equipe: 
+Projeto para as disciplinas de Banco de Dados e Engenharia de Software
+
 <div align="center">
   <img src="https://portal.cin.ufpe.br/wp-content/uploads/2020/07/Horizontal-Vermelho-Logotipo-CIn-UFPE.png" alt="logo_cin" width="400" height="auto" style="border-radius:20px;" />
   <h2>
@@ -17,7 +16,19 @@ Projeto para a cadeira de Banco de Dados e Engenharia de Software
 
  Celeste Azul Gomes de Gouveia Pereira - caggp@cin.ufpe.br
 
-## Projeto para a cadeira de Banco de Dados e Engenharia de Software
+ Maria Antonia Monteiro da Silva - mams5@cin.ufpe.br
+
+ Beatriz Helena da Silva Melo - bhsm2@cin.ufpe.br
+
+ Dayane Camile Bezerra de Lima - dcbl@cin.ufpe.br
+
+ Felipe de Vasconcelos Melo - fvm@cin.ufpe.br
+
+ Arthur Luis de Farias Alves - alfa@cin.ufpe.br
+
+ Leonardo Bezerra de Oliveira - lbo@cin.ufpe.br
+
+## Projeto para as disciplinas de Banco de Dados e Engenharia de Software
 Um sistema de gerenciamento de salgados para auxiliar as vendas feitas pela equipe de Marcelinho Salgados.
 Diante do processo de venda desses salgados, surgiu a necessidade da criação de um sistema de reservas, para que os alunos possam indicar o interesse na compra de salgados específicos, sistema esse que auxiliaria também no controle de vendas, cadastro de clientes e funcionários, obtenção e análise de dados.
 
