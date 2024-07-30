@@ -14,9 +14,11 @@
 
 Um sistema de gerenciamento de salgados para auxiliar as vendas feitas pela equipe de Marcelinho Salgados e reservas feitas por clientes.
 
+
 ## Introdução
 
 Diante do processo de venda desses salgados, surgiu a necessidade da criação de um sistema de reservas, para que os alunos possam indicar o interesse na compra de salgados específicos, sistema esse que auxiliaria também no controle de vendas, cadastro de clientes e funcionários, obtenção e análise de dados.
+
 
 ## 🧠 Equipe: 
 
@@ -38,6 +40,7 @@ Diante do processo de venda desses salgados, surgiu a necessidade da criação d
 ## 🔗 Links:
 
 Notion do projeto: https://www.notion.so/ffe3b257ecd64d4e976b589e21f3f66d?v=513785d499704759b375abb23bf55c91&pvs=4
+
 
 ## 📝 Requisitos da modelagem
 Como explicado anteriormente, a modelagem do banco foi construída a partir do contexto do Empreendimento Marcelinho Salgados;
