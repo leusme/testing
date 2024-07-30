@@ -36,20 +36,20 @@ Os requisitos da modelagem foram atendidos da seguinte forma:
   - Relacionamento 1:1, 1:N, N:M
     - Cliente-CartãoFidelidade, Funcionário-Venda, Reserva-Salgados
 
- - Relacionamento parcial-total, parcial-parcial
- - 
+  - Relacionamento parcial-total, parcial-parcial
+
     - Funcionario-Pedido,Cliente-Salgado
 
-   - Relacionamento Unário ou Auto Relacionamento, N-ário
-     
+    - Relacionamento Unário ou Auto Relacionamento, N-ário
+
     - Funcionário-Funcionário, Cliente-Reserva-Salgado
 
-   - Relacionamento Identificador ou Entidade Fraca
+    - Relacionamento Identificador ou Entidade Fraca
      
     - Cliente-CartãoFidelidade
 
  - Outros:
 
-   - Herança (qualquer tipo)
-     
+    - Herança (qualquer tipo)
+
     - Pedido-Venda-Reserva , Funcionario-Gerente-Vendedor
