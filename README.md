@@ -20,21 +20,22 @@ Diante do processo de venda desses salgados, surgiu a necessidade da criação d
 
 ## 🧠 Equipe: 
 
- Celeste Azul Gomes de Gouveia Pereira - caggp@cin.ufpe.br
-
- Maria Antonia Monteiro da Silva - mams5@cin.ufpe.br
+ Arthur Luis de Farias Alves - alfa@cin.ufpe.br
 
  Beatriz Helena da Silva Melo - bhsm2@cin.ufpe.br
+
+ Celeste Azul Gomes de Gouveia Pereira - caggp@cin.ufpe.br
 
  Dayane Camile Bezerra de Lima - dcbl@cin.ufpe.br
 
  Felipe de Vasconcelos Melo - fvm@cin.ufpe.br
 
- Arthur Luis de Farias Alves - alfa@cin.ufpe.br
-
  Leonardo Bezerra de Oliveira - lbo@cin.ufpe.br
 
- ## 🔗 Links:
+ Maria Antonia Monteiro da Silva - mams5@cin.ufpe.br
+ 
+
+## 🔗 Links:
 
 Notion do projeto: https://www.notion.so/ffe3b257ecd64d4e976b589e21f3f66d?v=513785d499704759b375abb23bf55c91&pvs=4
 
