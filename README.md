@@ -35,6 +35,7 @@ Diante do processo de venda desses salgados, surgiu a necessidade da criação d
 
  Leonardo Bezerra de Oliveira - lbo@cin.ufpe.br
 
+🔗 Link do Notion do projeto: https://www.notion.so/ffe3b257ecd64d4e976b589e21f3f66d?v=513785d499704759b375abb23bf55c91&pvs=4
 
 ## 📝 Requisitos da modelagem
 Como explicado anteriormente, a modelagem do banco foi construída a partir do contexto do Empreendimento Marcelinho Salgados;
