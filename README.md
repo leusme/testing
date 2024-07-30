@@ -12,7 +12,7 @@
 
 ## 🎯 Objetivo: 
 
-Um sistema de gerenciamento de salgados para auxiliar as vendas feitas pela equipe de Marcelinho Salgados.
+Um sistema de gerenciamento de salgados para auxiliar as vendas feitas pela equipe de Marcelinho Salgados e reservas feitas por clientes.
 
 ## Introdução
 
